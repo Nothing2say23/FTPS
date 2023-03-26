@@ -1,0 +1,14 @@
+F:\C\C#_src\FTPDemo\FTPServer\bin\Release\FTPServer.exe
+F:\C\C#_src\FTPDemo\FTPServer\bin\Release\FTPServer.pdb
+F:\C\C#_src\FTPDemo\FTPServer\obj\x86\Release\FTPServer.csprojAssemblyReference.cache
+F:\C\C#_src\FTPDemo\FTPServer\obj\x86\Release\FTPServer.MainForm.resources
+F:\C\C#_src\FTPDemo\FTPServer\obj\x86\Release\FTPServer.Properties.Resources.resources
+F:\C\C#_src\FTPDemo\FTPServer\obj\x86\Release\FTPServer.csproj.GenerateResource.cache
+F:\C\C#_src\FTPDemo\FTPServer\obj\x86\Release\FTPServer.csproj.CoreCompileInputs.cache
+F:\C\C#_src\FTPDemo\FTPServer\obj\x86\Release\FTPServer.csproj.CopyComplete
+F:\C\C#_src\FTPDemo\FTPServer\obj\x86\Release\FTPServer.exe
+F:\C\C#_src\FTPDemo\FTPServer\obj\x86\Release\FTPServer.pdb
+F:\C\C#_src\FTPDemo\FTPServer\bin\Release\FTP.FUC.dll
+F:\C\C#_src\FTPDemo\FTPServer\bin\Release\FTP.FUC.pdb
+F:\C\C#_src\FTPDemo\FTPServer\bin\Release\FTP.MODL.dll
+F:\C\C#_src\FTPDemo\FTPServer\bin\Release\FTP.MODL.pdb
