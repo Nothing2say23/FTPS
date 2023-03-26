@@ -1,0 +1,6 @@
+F:\C\C#_src\FTPDemo\FTP.Model\bin\Release\FTP.Model.dll
+F:\C\C#_src\FTPDemo\FTP.Model\bin\Release\FTP.Model.pdb
+F:\C\C#_src\FTPDemo\FTP.Model\obj\Release\FTP.Model.csprojAssemblyReference.cache
+F:\C\C#_src\FTPDemo\FTP.Model\obj\Release\FTP.Model.csproj.CoreCompileInputs.cache
+F:\C\C#_src\FTPDemo\FTP.Model\obj\Release\FTP.Model.dll
+F:\C\C#_src\FTPDemo\FTP.Model\obj\Release\FTP.Model.pdb

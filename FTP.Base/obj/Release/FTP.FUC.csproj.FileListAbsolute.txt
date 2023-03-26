@@ -1,0 +1,15 @@
+F:\C\C#_src\FTPDemo\FTP.Base\bin\Release\FTP.FUC.dll
+F:\C\C#_src\FTPDemo\FTP.Base\bin\Release\FTP.FUC.pdb
+F:\C\C#_src\FTPDemo\FTP.Base\bin\Release\Rebex.Common.dll
+F:\C\C#_src\FTPDemo\FTP.Base\bin\Release\Rebex.Ftp.dll
+F:\C\C#_src\FTPDemo\FTP.Base\bin\Release\Rebex.Networking.dll
+F:\C\C#_src\FTPDemo\FTP.Base\bin\Release\Rebex.Common.xml
+F:\C\C#_src\FTPDemo\FTP.Base\bin\Release\Rebex.Ftp.xml
+F:\C\C#_src\FTPDemo\FTP.Base\bin\Release\Rebex.Networking.xml
+F:\C\C#_src\FTPDemo\FTP.Base\obj\Release\FTP.FUC.csprojAssemblyReference.cache
+F:\C\C#_src\FTPDemo\FTP.Base\obj\Release\FTP.FUC.csproj.CoreCompileInputs.cache
+F:\C\C#_src\FTPDemo\FTP.Base\obj\Release\FTP.FUC.csproj.CopyComplete
+F:\C\C#_src\FTPDemo\FTP.Base\obj\Release\FTP.FUC.dll
+F:\C\C#_src\FTPDemo\FTP.Base\obj\Release\FTP.FUC.pdb
+F:\C\C#_src\FTPDemo\FTP.Base\bin\Release\FTP.MODL.dll
+F:\C\C#_src\FTPDemo\FTP.Base\bin\Release\FTP.MODL.pdb
